@@ -75,7 +75,7 @@ img {
 }
 
 #activities {
-    background: linear-gradient(#F1FAEE, #A8DADC);
+    background: linear-gradient(#F1FAEE, #F1FAEE, #F1FAEE, #A8DADC);
     margin-left: 5px;
     margin-right: 5px;
     padding-top: 30px;
